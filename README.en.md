@@ -14,11 +14,13 @@ A small countdown timer that lives in the macOS menu bar.
 
 The interface is in Russian only; there is no localization yet.
 
-## Requirements
+## For developers
+
+### Requirements
 
 macOS 14+, Swift 5.10 toolchain (Xcode or Command Line Tools).
 
-## Build
+### Build
 
 ```sh
 ./build.sh            # builds dist/Timer.app (universal arm64 + x86_64)
