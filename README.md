@@ -1,5 +1,7 @@
 # Timer
 
+![Timer](docs/banner.png)
+
 A small countdown timer that lives in the macOS menu bar.
 
 - Click the menu-bar icon to open the popover: type the time or use scroll / arrow keys, then press Start.
