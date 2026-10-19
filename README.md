@@ -1,5 +1,7 @@
 # Timer
 
+**English** · [Русский](README.ru.md)
+
 ![Timer](docs/banner.png)
 
 A small countdown timer that lives in the macOS menu bar.
